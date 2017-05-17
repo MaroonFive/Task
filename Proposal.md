@@ -1,7 +1,7 @@
-## interaction：
+## Introduction：
 我们小组计划完成一个BBS网络论坛。电子公告牌系统（Bulletin Board System，英文缩写BBS）通过在计算机上运行服务软件，允许用户使用终端程序通过Internet来进行连接，执行下载数据或程序、上传数据、阅读新闻、与其它用户交换消息等功能。项目采用B/S结构，统一客户端，将系统功能的核心部分集中到服务器上，客户机只需安装浏览器，服务器安装数据库，浏览器通过Web Server同数据库进行数据交互。
 
-## gathering background information：
+## Gathering background information：
 为了完成该项目，我们首先收集了许多资料。通过学习，我们知道了BBS的特点为信息量太；信息更新快；交互性强。BBS的分类有很多：校园BBS、商业BBS、专业BBS、情感BBS、个人BBS等，我们计划搭建一个类似校园BBS的。因此我们浏览了许多当前热门的BBS论坛，去了解它们的架构、功能，并仿照制作一个论坛
 
 ## Components of a Proposal
