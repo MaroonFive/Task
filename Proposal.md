@@ -47,7 +47,7 @@
 3.数据的修改也要求保持对应的准确性。 
 4.不允许服务器没有设置好，而导致系统运行出错。
 
-## The project Description
+## The Project Description
 ### 总体目标：
 在这个项目中，我们将完成一个名为“”的bbs网络论坛。
 ### 具体目标：
