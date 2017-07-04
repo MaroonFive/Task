@@ -1,0 +1,142 @@
+<html>
+<head>
+
+<title>无标题文档</title>
+
+</head>
+
+<body>
+<center>
+<form id="form1" name="form1" method="post" action="">
+  <table width="806" height="109" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td colspan="2"><table cellspacing="0" cellpadding="0" width="836" align="center" border="0">
+        <tbody>
+          <tr>
+            <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="836" height="161">
+              <param name="movie" value="../images/2.swf" />
+              <param name="quality" value="high" />
+              <embed src="../images/2.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="836" height="161"></embed>
+            </object></td>
+          </tr>
+        </tbody>
+      </table>
+        <table cellspacing="0" cellpadding="0" width="799" align="center" border="0">
+          <tbody>
+            <tr>
+              <td background="../品红公司_files/d.jpg" height="3"></td>
+            </tr>
+          </tbody>
+        </table>
+        <table cellspacing="0" cellpadding="0" width="799" align="center" border="0">
+          <tbody>
+            <tr>
+              <td><img height="40" src="../images/d_r3_c1.jpg" width="60" /><img height="40" 
+      src="../images/top_red.jpg" width="36" border="0" /><img height="40" 
+      src="../images/top_red.jpg" width="36" border="0" /><a 
+      href="../index.html"><img height="40" 
+      src="../images/d_r3_c5.jpg" width="64" border="0" /></a><img height="40" 
+      src="../images/top_red.jpg" width="20" border="0" /><a 
+      href="../showProductList.html"><img 
+      id="image1" height="40" src="../images/d_r3_c7.jpg" width="94" border="0" 
+      name="image1" /></a><img height="40" src="../images/top_red.jpg" width="20" 
+      border="0" /><a href="../showNewsList.html"><img 
+      height="40" src="../images/d_r3_c8.jpg" width="94" border="0" /></a><img 
+      height="40" src="../images/top_red.jpg" width="20" border="0" /><a 
+      onclick="openChat()" 
+      href="../index.html"><img height="40" 
+      src="../images/d_r3_c9.jpg" width="94" border="0" /></a><img height="40" 
+      src="../images/top_red.jpg" width="20" border="0" /><a 
+      href="../index.html" 
+      target="_blank"><img height="40" src="../images/d_r3_c10.jpg" width="94" 
+      border="0" /></a><img height="40" src="../images/top_red.jpg" width="20" 
+      border="0" /><a href="../index.html"><img 
+      height="40" src="../images/d_r3_c13.jpg" width="94" border="0" /></a><img 
+      height="40" src="../images/top_red.jpg" width="20" border="0" /><img height="40" 
+      src="../images/top_red.jpg" width="20" border="0" /><img height="40" 
+      src="../images/d_r3_c25.jpg" width="36" /></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="top"><!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable --></td>
+    </tr>
+    <tr>
+      <td width="289" valign="top"><table cellspacing="0" cellpadding="0" width="297" border="0">
+        <tbody>
+          <tr>
+            <td width="297" align="middle" valign="center"><a 
+            href="../showNewsList.html"><img 
+            height="25" src="../images/cg1_r1_c2.jpg" width="175" 
+            border="0" /></a></td>
+          </tr>
+          <tr>
+            <td valign="center" align="middle"><a 
+            href="../showProductList.html"><img 
+            height="25" src="../images/cg1_r2_c2.jpg" width="175" 
+            border="0" /></a></td>
+          </tr>
+          <tr>
+            <td valign="center" align="middle"><a 
+            href="../after.html"><img height="25" 
+            src="../images/cg1_r4_c2.jpg" width="175" border="0" /></a></td>
+          </tr>
+          <tr>
+            <td valign="center" align="middle"><a 
+            href="../about.html"><img height="25" 
+            src="../images/cg1_r6_c2.jpg" width="175" border="0" /></a></td>
+          </tr>
+          <tr height="1">
+            <td valign="center" align="middle">&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table cellspacing="0" cellpadding="0" width="297" border="0">
+                <tbody>
+                  <tr>
+                    <td colspan="2"><img height="28" 
+                  src="../images/cg1_r10_c1.jpg" width="188" /></td>
+                  </tr>
+                  <tr>
+                    <td width="33"><img height="28" src="../images/cg5_1.jpg" 
+                  width="21" /></td>
+                    <td class="d06" width="158">业务专线:010-88888888</td>
+                  </tr>
+                  <tr>
+                    <td width="33" colspan="2"><img 
+                src="../images/tiao.jpg" width="175" height="2" /></td>
+                  </tr>
+                  <tr>
+                    <td width="33"><img height="28" src="../images/cg5_1.jpg" 
+                  width="21" /></td>
+                    <td class="d06" width="158">售后服务:010-66666666</td>
+                  </tr>
+                  <tr>
+                    <td width="33" colspan="2"><img 
+                src="../images/tiao1.jpg" width="297" height="1" /></td>
+                  </tr>
+                  <tr>
+                    <td width="33"><img height="28" src="../images/cg5_1.jpg" 
+                  width="21" /></td>
+                    <td class="d06" 
+                width="158">传&nbsp;&nbsp;&nbsp;&nbsp;真:010-12345678</td>
+                  </tr>
+                  <tr>
+                    <td width="33" colspan="2"><img 
+                src="../images/tiao1.jpg" width="297" height="1" /></td>
+                  </tr>
+                </tbody>
+            </table></td>
+          </tr>
+        </tbody>
+      </table></td>
+      <td width="553" valign="top"><!-- TemplateBeginEditable name="EditRegion2" -->EditRegion2<!-- TemplateEndEditable --></td>
+    </tr>
+    <tr>
+      <td colspan="2" background="../images/d_r11_15.jpg">&nbsp;</td>
+    </tr>
+  </table>
+</form>
+</center>
+</body>
+</html>

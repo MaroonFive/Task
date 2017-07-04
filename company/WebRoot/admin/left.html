@@ -1,0 +1,59 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>无标题文档</title>
+<style type="text/css">
+<!--
+.STYLE1 {
+	font-size: 16px;
+	font-weight: bold;
+}
+.color{
+background-color:#999999;}
+.cengcolor{
+background-color:#999999;}
+-->
+</style>
+</head>
+<script>
+function div(){
+document.getElementById('div1').style.display="none";
+document.getElementById('div2').style.display="none";
+document.getElementById('div3').style.display="none";
+}
+function div1(){
+document.getElementById('div1').style.display="block";
+document.getElementById('div2').style.display="none";
+document.getElementById('div3').style.display="none";
+}
+function div2(){
+document.getElementById('div1').style.display="none";
+document.getElementById('div2').style.display="block";
+document.getElementById('div3').style.display="none";
+}
+function div3(){
+document.getElementById('div1').style.display="none";
+document.getElementById('div2').style.display="none";
+document.getElementById('div3').style.display="block";
+}
+</script>
+<body onLoad="div()" class="color">
+<p class="STYLE1">系统后台管理面板</p>
+<p align="center"><a style="color:blue; text-decoration: none;" href="tuichu.jsp" target="_blank">[安全退出]</a> <a style="color:blue; text-decoration: none;" href="right.html" target="mainFrame">[返回首页]</a></p>
+<p align="center" onClick="div1()">.系统管理</p>
+<hr/>
+<div align="center" class="cengcolor" id="div1">
+<a style="color:blue; text-decoration: none;" href="../saveUsers.jsp" target="mainFrame"><img border="0" src="../image/icon_arrow_r.gif" width="13" height="13">添加管理员</a><br>
+<a style="color:blue; text-decoration: none;" href="../manageUsers.jsp" target="mainFrame"><img border="0" src="../image/icon_arrow_r.gif" width="13" height="13">用户管理</a>&nbsp;&nbsp;  <br></div>
+<p align="center" onClick="div2()">.新闻管理</p>
+<hr/>
+<div align="center" class="cengcolor" id="div2"> <img src="../image/icon_arrow_r.gif" width="13" height="13"><a style="color:blue; text-decoration: none;" href="UpdateNews.jsp"  target="mainFrame">添加新闻</a> 
+<br>
+<img src="../image/icon_arrow_r.gif" width="13" height="13"><a style="color:blue; text-decoration: none;" href="shanchu.jsp"  target="mainFrame">新闻管理</a></div>
+<p align="center" onClick="div3()">.商品管理</p>
+<hr/>
+<div align="center" class="cengcolor" id="div3">
+<a style="color:blue; text-decoration: none;" href="../saveProduct.jsp" target="mainFrame"><img border="0" src="../image/icon_arrow_r.gif" width="13" height="13">添加商品</a><br>
+<a style="color:blue; text-decoration: none;" href="../manageProduct.jsp" target="mainFrame"><img border="0" src="../image/icon_arrow_r.gif" width="13" height="13">管理商品</a></div>
+</body>
+</html>
